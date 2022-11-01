@@ -59,8 +59,8 @@ class App extends Component {
         <h2 onClick={nextClick} id="nextButton">Next</h2>
         <h2 onClick={backClick} id="backButton">Back</h2>
         <h3 id="counter"></h3>
-        <div id="statsCont">
           <h2 id="CountryName" />
+        <div id="statsCont">
           <h3 id="Population" />
           <h3 id="CovidCases"/>
           <h3 id="Deaths" />
