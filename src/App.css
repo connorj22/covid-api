@@ -70,7 +70,8 @@ h2{
 
 
 
-h3 {
+#Population, #CovidCases, #Deaths, #LifeExpectancy {
   display: flex;
   justify-content: center;
+  font-size: 28px;
 }
