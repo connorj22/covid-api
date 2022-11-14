@@ -58,13 +58,13 @@ class App extends Component {
         <h1>Country Covid Data</h1>
         <h2 onClick={nextClick} id="nextButton">Next</h2>
         <h2 onClick={backClick} id="backButton">Back</h2>
-        <h3 id="counter"></h3>
-          <h2 id="CountryName" />
-        <div id="statsCont">
-          <h3 id="Population" />
-          <h3 id="CovidCases"/>
-          <h3 id="Deaths" />
-          <h3 id="LifeExpectancy"/>
+        <h3 id="counter">.</h3>
+          <h2 id="CountryName">.</h2>
+          <div id="statsCont">
+          <h3 id="Population">.</h3>
+          <h3 id="CovidCases">.</h3>
+          <h3 id="Deaths">.</h3>
+          <h3 id="LifeExpectancy">.</h3>
         </div>
       </div>
     );
